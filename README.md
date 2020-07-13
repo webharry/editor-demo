@@ -4,6 +4,7 @@
 # 二、常见的富文本编辑器比较：
 ##  1、tinymce 富文本编辑器
 源码地址：https://github.com/tinymce/tinymce-vue  star 913
+
 优点：
 * tinymce是一款易用、且功能强大的所见即所得的富文本编辑器。同类程序有：UEditor、Kindeditor、Simditor、CKEditor、wangEditor、Suneditor、froala等等。
 * 老牌做富文本的公司打造，文档完善，配置自由度高。
@@ -54,6 +55,7 @@ https://panjiachen.github.io/vue-element-admin-site/zh/feature/component/rich-ed
 
 ## 5、wangeditor 
 源码地址：https://www.kancloud.cn/wangfupeng/wangeditor3/335769
+
 优点：
 * 轻量、简洁、易用、开源免费
 * 图片上传有两种方式：1、base64且不上传。2、通过URL方式上传
@@ -69,6 +71,7 @@ https://panjiachen.github.io/vue-element-admin-site/zh/feature/component/rich-ed
 移动端
 ## 6、ueditor  
 源码地址：https://github.com/fex-team/ueditor   star 5.2k、
+
 优点：
 * 百度前端的开源项目，功能强大，基于 jQuery，但已经没有再维护，而且限定了后端代码，修改起来比较费劲
 
@@ -78,6 +81,7 @@ https://panjiachen.github.io/vue-element-admin-site/zh/feature/component/rich-ed
 
 ## 7、neditor 
 源码地址：https://github.com/notadd/neditor  star 1.8k
+
 优点：
 * 基于ueditor的升级，界面更现代化，支持HTTPS
 
